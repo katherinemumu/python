@@ -10,5 +10,5 @@ def evenOdd(n):
     else:
         return "Odd"
 
-a = int(input("Enter an integer:"))
+a = int(input("Enter an integer: "))
 print(evenOdd(a))
