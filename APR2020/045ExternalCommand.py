@@ -6,4 +6,3 @@ This program will call an external command
 
 from subprocess import call
 call(["ls", "-l"])
-
