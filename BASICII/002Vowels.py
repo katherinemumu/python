@@ -1,7 +1,7 @@
 '''
 katherinemumu
 Apr 28 2020
-This program will print out all the combinations of the vowels a, e, i, o, u
+This program will print out a random combination of the vowels a, e, i, o, u
 '''
 
 import random
