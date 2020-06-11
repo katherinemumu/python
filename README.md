@@ -1,2 +1,1 @@
-# QUARANTINE-and-PYTHON
-Learn how to code during quarantine :D
+# practicing to code with python ;)
